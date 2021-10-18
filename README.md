@@ -1,5 +1,5 @@
 # Live Tonight (BandsInTown)
-A simple React application that connects to the BandsInTown API ().<br>
+A simple React application that connects to the BandsInTown API (https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0).<br>
 - Where users can
   - Search events by *Artist Name*
   - Filter events by *Event Date*
