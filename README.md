@@ -32,7 +32,6 @@ It's completely personal project, where I can show a sample React/Redux applicat
 
 ## Extra features than required
 - I have deep linked the search filters into the query parameters so that you can have shareable links.
-  - That's an event for [John, on Friday, March 6th 2015]
 - I've also added a Location GoogleMap for events.
 
 ## File Structure
