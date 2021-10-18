@@ -16,14 +16,6 @@ It's completely personal project, where I can show a sample React/Redux applicat
 - Redux/Redux-Sauce
 - Sagas
 - Jest/Enzyme for Unit Testing
-
-## Tools
-- [react-scripts](https://github.com/facebook/create-react-app/blob/master/README.md#getting-started)
-  - Encapsulates (with ability to eject and take full control):
-    - Webpack, Babel, ESlint, ...
-  - We can smoothly build/deploy our React applications with [zero configurations](https://github.com/facebook/create-react-app#philosophy)
-  - We're not locked in, and we can [eject](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#npm-run-eject) at any point of time to have full control over webpack/babel plugins/eslint/... and all other tools.
-
 ## UI
 - I've used [Material-UI] which's an awesome implementation of the Material Design for React
 - I've used [JSS] for the styling
