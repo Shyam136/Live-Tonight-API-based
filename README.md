@@ -5,7 +5,7 @@ A simple React application that connects to the BandsInTown API (https://app.swa
   - Filter events by *Event Date*
   - They also get to see it on Map by clicking 'Location' for which I used GoogleMap in it. 
   - It has the facebook profile linked to the artist.
-
+asd
 ## Why?
 It's completely personal project, where I can show a sample React/Redux application.
 
